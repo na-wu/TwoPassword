@@ -22,3 +22,11 @@ It includes a *very* simple GUI made with Swing, and a few functionalities such 
 
 
 [1]: https://1password.com
+
+# What I learned
+---
+- Observer Software Design Pattern
+- MVC Architectural Pattern
+- Strong text encryption and decryption
+- Database design and querying
+- User Interface design
